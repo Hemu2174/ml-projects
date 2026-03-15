@@ -51,8 +51,6 @@ Thumbs.db
 .DS_Store
 
 # Project Specific
-*.csv
-*.json
 *.log
 *.tmp
 
